@@ -5,6 +5,7 @@
 Notebook | Описание | Открыть
 ---------|----------|--------
 [`1-Responses-API.ipynb`](1-Responses-API.ipynb) | Знакомимся с работой в Yandex AI Studio через OpenAI-совместимый SDK, учимся взаимодействовать с LLM с помощью Responses API, создавать изображения в YandexART и улучшать их в итеративном агентном цикле, а также использовать VLM и структурированные ответы на основе Pydantic для анализа изображений.|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandex-ai-studio/ai-studio-coding-webinars/blob/main/1-Responses-API.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandex-ai-studio/ai-studio-coding-webinars/main?labpath=1-Responses-API.ipynb)
+[`2-Tools.ipynb`](2-Tools.ipynb) | Знакомимся с работой в Yandex AI Studio через OpenAI-совместимый SDK, учимся взаимодействовать с LLM с помощью Responses API, создавать изображения в YandexART и улучшать их в итеративном агентном цикле, а также использовать VLM и структурированные ответы на основе Pydantic для анализа изображений.|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandex-ai-studio/ai-studio-coding-webinars/blob/main/2-Tools.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandex-ai-studio/ai-studio-coding-webinars/main?labpath=2-Tools.ipynb)
 
 ### Об авторе 
 
